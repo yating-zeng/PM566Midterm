@@ -2674,4 +2674,3 @@ relatively high vaccination rate. And the final vaccination rate would
 be higher with the age level being higher, but the rate for people with
 age less than 5 years old would keep in a low level, even though they
 follow the same trend mentioned above.
-# PM566Midterm
